@@ -8,3 +8,5 @@
 2. Increasing the number of nodes in hidden layer #1 and hidden layer #2
 
 ## Attempt 3
+1. Continue with the increased number of noeds in hidden layers #1 and #2
+2. Changing activation type to "tanh" for hidden layers #1 and #2
